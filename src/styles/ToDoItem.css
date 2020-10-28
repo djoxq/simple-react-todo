@@ -1,0 +1,10 @@
+.todo-item {
+    padding: 16px;
+    margin-bottom: 16px;
+    border-radius: 10px;
+    background-color: #64b5f6;
+}
+
+.todo-item.clickable {
+    cursor: pointer;
+}

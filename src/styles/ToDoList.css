@@ -1,0 +1,23 @@
+.todo-list {
+    width: 270px;
+    padding: 16px;
+    background-color: #eee;
+    border-radius: 10px;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: min-content;
+    min-height: 96px;
+}
+
+.add-item-btn {
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #1E88E5;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+}

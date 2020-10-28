@@ -1,0 +1,12 @@
+.content__wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+}
+
+.todo-title {
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 16px;
+}
